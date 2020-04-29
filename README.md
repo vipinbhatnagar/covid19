@@ -10,3 +10,6 @@ deaths.csv    : deaths as confirmed to be due to COVID19
 
 Above files are generated using the daily updates done by the Govt.of India,
 Ministry of Health & Family Welfare on the above listed URL.
+
+Now supporting the format used by the Melbourne University hosted site:
+in.covid19forecast.science.unimelb.edu.au
